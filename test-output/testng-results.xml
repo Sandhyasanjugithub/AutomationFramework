@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-09T20:37:39 IST" name="Default suite" finished-at="2022-09-09T20:37:39 IST" duration-ms="44">
+  <suite started-at="2022-09-13T10:40:56 IST" name="Default suite" finished-at="2022-09-13T10:40:56 IST" duration-ms="42">
     <groups>
     </groups>
-    <test started-at="2022-09-09T20:37:39 IST" name="Default test" finished-at="2022-09-09T20:37:39 IST" duration-ms="44">
-      <class name="ddt.OrganizationTest">
-        <test-method signature="deleteOrgTest()[pri:0, instance:ddt.OrganizationTest@3a6bb9bf]" started-at="2022-09-09T20:37:39 IST" name="deleteOrgTest" finished-at="2022-09-09T20:37:39 IST" duration-ms="12" status="PASS">
+    <test started-at="2022-09-13T10:40:56 IST" name="Default test" finished-at="2022-09-13T10:40:56 IST" duration-ms="42">
+      <class name="sampleTests.WishTest">
+        <test-method signature="removeTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T10:40:56 IST" name="removeTest" finished-at="2022-09-13T10:40:56 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteOrgTest -->
-      </class> <!-- ddt.OrganizationTest -->
+        </test-method> <!-- removeTest -->
+        <test-method signature="wishTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T10:40:56 IST" name="wishTest" finished-at="2022-09-13T10:40:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishTest -->
+      </class> <!-- sampleTests.WishTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
