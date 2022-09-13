@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-13T10:40:56 IST" name="Default suite" finished-at="2022-09-13T10:40:56 IST" duration-ms="42">
+  <suite started-at="2022-09-13T11:53:19 IST" name="Default suite" finished-at="2022-09-13T11:53:19 IST" duration-ms="52">
     <groups>
     </groups>
-    <test started-at="2022-09-13T10:40:56 IST" name="Default test" finished-at="2022-09-13T10:40:56 IST" duration-ms="42">
+    <test started-at="2022-09-13T11:53:19 IST" name="Default test" finished-at="2022-09-13T11:53:19 IST" duration-ms="52">
       <class name="sampleTests.WishTest">
-        <test-method signature="removeTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T10:40:56 IST" name="removeTest" finished-at="2022-09-13T10:40:56 IST" duration-ms="11" status="PASS">
+        <test-method signature="removeTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T11:53:19 IST" name="removeTest" finished-at="2022-09-13T11:53:19 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removeTest -->
-        <test-method signature="wishTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T10:40:56 IST" name="wishTest" finished-at="2022-09-13T10:40:56 IST" duration-ms="1" status="PASS">
+        <test-method signature="wishTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T11:53:19 IST" name="wishTest" finished-at="2022-09-13T11:53:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wishTest -->

@@ -7,6 +7,7 @@ public class WishTest {
 public void wishTest()
 {
 	System.out.println("Happy Onam To All My Friends");
+	System.out.println("sanju bye");
 }
 @Test
 public void removeTest()
