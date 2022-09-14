@@ -13,5 +13,6 @@ public void demoTest()
 public void dummyTest()
 {
 	System.out.println("product removed");
+	System.out.println("sanju good morning");
 }
 }
