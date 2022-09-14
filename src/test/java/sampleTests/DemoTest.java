@@ -9,4 +9,9 @@ public void demoTest()
 	System.out.println("Hi sanju");
 
 }
+@Test
+public void dummyTest()
+{
+	System.out.println("product removed");
+}
 }

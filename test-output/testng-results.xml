@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-13T11:53:19 IST" name="Default suite" finished-at="2022-09-13T11:53:19 IST" duration-ms="52">
+  <suite started-at="2022-09-14T08:04:36 IST" name="Default suite" finished-at="2022-09-14T08:04:36 IST" duration-ms="58">
     <groups>
     </groups>
-    <test started-at="2022-09-13T11:53:19 IST" name="Default test" finished-at="2022-09-13T11:53:19 IST" duration-ms="52">
-      <class name="sampleTests.WishTest">
-        <test-method signature="removeTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T11:53:19 IST" name="removeTest" finished-at="2022-09-13T11:53:19 IST" duration-ms="11" status="PASS">
+    <test started-at="2022-09-14T08:04:36 IST" name="Default test" finished-at="2022-09-14T08:04:36 IST" duration-ms="58">
+      <class name="sampleTests.DemoTest">
+        <test-method signature="demoTest()[pri:0, instance:sampleTests.DemoTest@2e222612]" started-at="2022-09-14T08:04:36 IST" name="demoTest" finished-at="2022-09-14T08:04:36 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- removeTest -->
-        <test-method signature="wishTest()[pri:0, instance:sampleTests.WishTest@2e222612]" started-at="2022-09-13T11:53:19 IST" name="wishTest" finished-at="2022-09-13T11:53:19 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- demoTest -->
+        <test-method signature="dummyTest()[pri:0, instance:sampleTests.DemoTest@2e222612]" started-at="2022-09-14T08:04:36 IST" name="dummyTest" finished-at="2022-09-14T08:04:36 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- wishTest -->
-      </class> <!-- sampleTests.WishTest -->
+        </test-method> <!-- dummyTest -->
+      </class> <!-- sampleTests.DemoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
